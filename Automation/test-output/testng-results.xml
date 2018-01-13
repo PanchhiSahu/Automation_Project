@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results skipped="0" failed="0" total="1" passed="1">
+  <reporter-output>
+  </reporter-output>
+  <suite name="Default suite" duration-ms="60544" started-at="2018-01-07T16:08:36Z" finished-at="2018-01-07T16:09:37Z">
+    <groups>
+    </groups>
+    <test name="Default test" duration-ms="60544" started-at="2018-01-07T16:08:36Z" finished-at="2018-01-07T16:09:37Z">
+      <class name="TestScripts.TC2">
+        <test-method status="PASS" signature="LoadDriver()[pri:0, instance:TestScripts.TC2@1f8dbaa6]" name="LoadDriver" is-config="true" duration-ms="33799" started-at="2018-01-07T21:38:36Z" finished-at="2018-01-07T21:39:10Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- LoadDriver -->
+        <test-method status="PASS" signature="Trending_Channel()[pri:0, instance:TestScripts.TC2@1f8dbaa6]" name="Trending_Channel" duration-ms="26632" started-at="2018-01-07T21:39:10Z" finished-at="2018-01-07T21:39:36Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Trending_Channel -->
+        <test-method status="PASS" signature="Browser_Close()[pri:0, instance:TestScripts.TC2@1f8dbaa6]" name="Browser_Close" is-config="true" duration-ms="0" started-at="2018-01-07T21:39:37Z" finished-at="2018-01-07T21:39:37Z">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- Browser_Close -->
+      </class> <!-- TestScripts.TC2 -->
+    </test> <!-- Default test -->
+  </suite> <!-- Default suite -->
+</testng-results>
